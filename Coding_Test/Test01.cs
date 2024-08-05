@@ -1,13 +1,16 @@
 ﻿namespace Coding_Test
 {
-    internal class Test_Frist
+    // 코딩테스트 : https://school.programmers.co.kr/learn/courses/30/lessons/120803
+
+    // < 두 수의 차 >
+    // 정수 num1과 num2가 주어질 때, num1에서 num2를 뺀 값을 return하도록 soltuion 함수를 완성해주세요.
+
+    // 제한 사항 : 
+    // -50000 ≤ num1 ≤ 50000
+    // -50000 ≤ num2 ≤ 50000
+
+    public class Test01
     {
-        // 정수 num1과 num2가 주어질 때, num1에서 num2를 뺀 값을 return하도록 soltuion 함수를 완성해주세요.
-
-        // 제한 사항
-        // -50000 ≤ num1 ≤ 50000
-        // -50000 ≤ num2 ≤ 50000
-
         public class Solution
         {
             public int solution(int num1, int num2)   // 정수 선언
