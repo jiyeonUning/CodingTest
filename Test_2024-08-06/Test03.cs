@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Test_2024_08_05
+namespace Test_2024_08_06
 {
     // 2024-08-05 코딩테스트 :
 
@@ -15,7 +15,7 @@ namespace Test_2024_08_05
     //
     //
 
-    internal class Test04
+    internal class Test03
     {
     }
 }
