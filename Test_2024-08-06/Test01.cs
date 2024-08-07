@@ -1,6 +1,6 @@
 ﻿namespace Test_2024_08_06
 {
-    // 2024-08-05 코딩테스트 : https://school.programmers.co.kr/learn/courses/30/lessons/120809
+    // 2024-08-06 코딩테스트 : https://school.programmers.co.kr/learn/courses/30/lessons/120809
 
     // < 배열 두배 만들기 >
     // 정수 배열 numbers가 매개변수로 주어집니다.
